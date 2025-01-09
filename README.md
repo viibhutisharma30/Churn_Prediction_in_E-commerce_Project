@@ -1,1 +1,1 @@
-# churn_Prediction_in_E-commerce_Project
+# Churn_Prediction_in_E-commerce_Project
